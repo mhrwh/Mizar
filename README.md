@@ -1,1 +1,1 @@
-# MIzar
+# Mizar
